@@ -1,4 +1,4 @@
 # kubernetes-helm
 ```
-brew install GIT_RAW_LINK
+brew install https://raw.githubusercontent.com/ivanmanan/kubernetes-helm/master/kubernetes-helm.rb
 ```
